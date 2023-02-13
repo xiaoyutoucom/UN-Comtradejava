@@ -1,29 +1,7 @@
-# README #
+UN Comtrade（联合国商品贸易统计数据库）JAVA版
+获取UN Comtrade数据库api数据
+并保存到数据库中
+包含部分统计方法实现
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+如遇问题关注
+![输入图片说明](image.png)
